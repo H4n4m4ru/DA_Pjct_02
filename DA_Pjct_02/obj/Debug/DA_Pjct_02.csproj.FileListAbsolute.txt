@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\bin\Debug\DA_Pjct_02.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\bin\Debug\DA_Pjct_02.exe
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\bin\Debug\DA_Pjct_02.pdb
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\obj\Debug\DA_Pjct_02.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\obj\Debug\DA_Pjct_02.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\obj\Debug\DA_Pjct_02.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\obj\Debug\DA_Pjct_02.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\obj\Debug\DA_Pjct_02.exe
+c:\users\asus\documents\visual studio 2013\Projects\DA_Pjct_02\DA_Pjct_02\obj\Debug\DA_Pjct_02.pdb
